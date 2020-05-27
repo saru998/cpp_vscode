@@ -1,0 +1,6 @@
+1.build cmd+shift+b
+2.run using launch
+3.happy debug
+
+task: it will always created one out file which can be run and debug;
+make changes in task if needed for different out file
